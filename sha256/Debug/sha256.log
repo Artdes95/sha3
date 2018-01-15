@@ -1,0 +1,6 @@
+﻿  sha256.cpp
+c:\users\administrator\desktop\arthur\sha3\sha256\sha256.cpp(132): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+     Creating library C:\Users\Administrator\Desktop\Arthur\ExerciceHashGenerique\Debug\Hash.lib and object C:\Users\Administrator\Desktop\Arthur\ExerciceHashGenerique\Debug\Hash.exp
+  sha256.vcxproj -> C:\Users\Administrator\Desktop\Arthur\ExerciceHashGenerique\Debug\Hash.dll
+  sha256.vcxproj -> C:\Users\Administrator\Desktop\Arthur\ExerciceHashGenerique\Debug\Hash.pdb (Full PDB)
